@@ -1,0 +1,13 @@
+# Importing the required libraries in requirements file 
+
+faiss-cpu  #  Vector Embedding
+groq 
+langchain-groq #Langchain is the Frame work used to create GenAI apps
+PyPDF  #Read PDFs and documents 
+langchain_google_genai
+langchain
+streamlit
+langchain_community
+python-dotenv #To call the enviorment variables 
+pypdf
+
